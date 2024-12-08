@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-agrawall&label=Profile%20views&color=0e75b6&style=flat" alt="parth-agrawall" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, Kubernetes, DSA Algorithms**
+- 🌱 I’m currently learning **Generative AI, Docker, DSA Algorithms**
 
 - 💬 Ask me about **machine learning algorithms, computer vision**
 
