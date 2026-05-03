@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=AI+Engineer+%40+Jubilant+Pharmova;AWS+Solutions+Architect+Associate;Generative+AI+%26+LLM+Builder;Python+%7C+ML+%7C+Computer+Vision;Open+Source+%7C+CNCF+Contributor+in+Making;Turning+Ideas+into+Intelligent+Systems!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=AI+Engineer+%40+Jubilant+Pharmova;AWS+Solutions+Architect+Associate;Generative+AI+%26+LLM+Builder;Python+%7C+ML+%7C+Computer+Vision;Open+Source+Contributor+%26+Builder;Turning+Ideas+into+Intelligent+Systems!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,15 +25,15 @@
   Location : India 🇮🇳
   Certified: AWS Solutions Architect – Associate ☁️
   Focus    : GenAI · LLMs · MLOps · Computer Vision
-  Learning : RAG Pipelines · Kubernetes · CNCF
-  Goal2026 : LFX Mentorship @ CNCF 🎯
+  Learning : RAG Pipelines · Kubernetes · Open Source
+  Goal2026 : More Open Source Contributions 🎯
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 - 🏢 **AI Engineer** building production ML systems at **Jubilant Pharmova**
 - ☁️ **AWS Certified Solutions Architect – Associate** | Cloud-native thinker
 - 🤖 Obsessed with **LLMs, RAG, Agents** and real-world AI deployment
-- 🌱 Deep-diving into **Kubernetes, CNCF ecosystem** & open-source
+- 🌱 Deep-diving into **Kubernetes, open-source** & cloud-native ecosystem
 - 💬 Ask me about **ML pipelines, Computer Vision, GenAI, AWS**
 - 📫 **parth.agrawal4002@gmail.com**
 
@@ -49,7 +49,7 @@
 &nbsp;
 [![Role](https://img.shields.io/badge/AI_Engineer-Jubilant_Pharmova-6B48FF?style=for-the-badge&logo=robot-framework&logoColor=white)]()
 &nbsp;
-[![CNCF](https://img.shields.io/badge/CNCF-LFX_Mentorship_Aspirant-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white)]()
+[![OpenSource](https://img.shields.io/badge/Open_Source-Contributor-22c55e?style=for-the-badge&logo=github&logoColor=white)]()
 
 </div>
 
